@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mdatikurra25176" target="blank"><img src="https://img.shields.io/twitter/follow/@mdatikurra25176?logo=twitter&style=for-the-badge" alt="@mdatikurra25176" /></a> </p>
 
-- 🌱 I’m currently learning **React, Navtive**
+- 🌱 I’m currently learning **React, Native**
 
 - 💬 Ask me about **Android, MEARN**
 
