@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atikmamu&label=Profile%20views&color=0e75b6&style=flat" alt="atikmamu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/md atikur rahman" target="blank"><img src="https://img.shields.io/twitter/follow/md atikur rahman?logo=twitter&style=for-the-badge" alt="md atikur rahman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mdatikurra25176" target="blank"><img src="https://img.shields.io/twitter/follow/@mdatikurra25176?logo=twitter&style=for-the-badge" alt="@mdatikurra25176" /></a> </p>
 
 - 🌱 I’m currently learning **React, Navtive**
 
@@ -16,12 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/md. atikur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md. atikur rahman" height="30" width="40" /></a>
-<a href="https://twitter.com/md atikur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md atikur rahman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md atikur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md atikur rahman" height="30" width="40" /></a>
-<a href="https://fb.com/মোঃ আতিকুর রহমান" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="মোঃ আতিকুর রহমান" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/atikmamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/atikmamu" height="30" width="40" /></a>
+<a href="https://twitter.com/@mdatikurra25176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdatikurra25176" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-atikur-rahman-200176310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-atikur-rahman-200176310/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
 <a href="https://instagram.com/atiqur3794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atiqur3794" height="30" width="40" /></a>
-<a href="https://discord.gg/Atikur Rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Atikur Rahman" height="30" width="40" /></a>
+<a href="https://discord.gg/atikurrahman095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atikurrahman095" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
