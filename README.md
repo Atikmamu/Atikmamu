@@ -6,16 +6,6 @@
 <h3 align="center">🎯 Currently working with MERN Stack (MongoDB, Express.js, React, Node.js) and Firebase authentication.
 🌱 Always learning and growing to become a highly skilled full-stack developer.</h3>
 
-<h4 align="center">📌 Tech Stack & Skills:
-
-Frontend: React, Next.js, JavaScript, Tailwind CSS
-Backend: Node.js, Express.js, Firebase, MongoDB
-Other: Git/GitHub, Netlify, API Integration
-🚀 What I'm Working On:
-
-Building scalable MERN & Next.js applications
-Enhancing authentication & backend functionality with Firebase & Node.js
-Exploring cloud deployment & performance optimization</h4>
 
 <img src="https://www.google.com/search?q=web+developer+image+jpg&oq=web+developer+image+&gs_lcrp=EgZjaHJvbWUqCAgEEAAYFhgeMgYIABBFGDkyCQgBEAAYChiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTEyMzU1ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8#vhid=7HxBUtP7_P-DKM&vssid=_g0o-Z6a_Oq6gseMPttPYyQI_41" alt="" />
 
